@@ -1,4 +1,4 @@
-# Simulation of the Initial Steps of a Startup
+# Literature research about cryptography
 
 **Location**: Liceo Ginnasio Luigi Galvani 
 **Period**: Jan 2018 - Jun 2018 
