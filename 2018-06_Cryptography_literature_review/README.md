@@ -1,8 +1,8 @@
 # Literature research about cryptography
 
-**Location**: Liceo Ginnasio Luigi Galvani 
-**Period**: Jan 2018 - Jun 2018 
-**Collaborators**: Bruno Buriani, Chiara Ferdori  
+**Location**: Liceo Ginnasio Luigi Galvani  
+**Period**: Jan 2018 - Jun 2018  
+**Collaborators**: Bruno Buriani, Chiara Ferdori   
 
 ## Context
 As a final thesis for my high school graduation, I did literature research about the history and importance of cryptography. I analyzed the most significant steps in its development from the Roman Empire to the methods used nowadays, with a brief excursus on its importance in English literature (Edgar Allan Poe).
