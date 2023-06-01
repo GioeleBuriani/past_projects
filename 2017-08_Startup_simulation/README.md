@@ -17,3 +17,4 @@ The ultimate goal of the startup project was to provide a convenient tool for in
 ## Files
 - **VisItaly - Complete Document.pdf**: The final document presented to the investor panel. It includes essential elements for a startup, such as the elevator pitch, marketing strategy, competitor analysis, SWOT analysis, and cashflow forecast.
 - **VisItaly - Presentation Video.mp4**: A brief presentation video featuring the elevator pitch for the project.
+- **VisItaly - Logo.png**: The logo of the startup
