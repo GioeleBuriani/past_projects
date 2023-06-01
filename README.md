@@ -3,6 +3,13 @@ A collection of all my past projects
 
 
 ### My Projects
+
+![Literature research about cryptography](./2018-06_Cryptography_literature_review/Cryptography - Caesar cipher.png)
+*Project 1*
+
+![Simulation of the Initial Steps of a Startup](./2017-08_Startup_simulation/Visitaly - Logo.png)
+*Project 2*
+
 |Literature research about cryptography | Simulation of the Initial Steps of a Startup |
 |---|---|
 <img src="./2018-06_Cryptography_literature_review/Cryptography - Caesar cipher.png" alt="" style="width: 100%; height: auto;" /> | <img src="./2017-08_Startup_simulation/Visitaly - Logo.png" alt="" style="width: 100%; height: auto;" /> |
