@@ -1,6 +1,6 @@
 # Logical network of a house alarm system
 
-**Location**: Tongji University
+**Location**: Tongji University  
 **Period**: Sep 2019 - Nov 2019  
 **Collaborators**: Vittorio Galletti  
 
