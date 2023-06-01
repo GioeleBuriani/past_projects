@@ -2,5 +2,5 @@
 A collection of all my past projects
 
 ## Animations
-Some animations from recent pojects
+Some animations from recent projects
 
