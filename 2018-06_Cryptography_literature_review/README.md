@@ -17,5 +17,5 @@ Moreover, the study examines the extensive impact of cryptography in everyday li
 All the documents are in Italian.
 
 ## Files
-- **Cryptography - Final Document.pdf**: The final document presented to the graduation committe.
+- **Cryptography - Final Document.pdf**: The final document presented to the graduation committee.
 - **Cryptography - Presentation.pptx**: The presentation slides used at the oral examination for my graduation.
