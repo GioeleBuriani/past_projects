@@ -17,5 +17,6 @@ Moreover, the study examines the extensive impact of cryptography in everyday li
 All the documents are in Italian.
 
 ## Files
+- **Cryptography - Caesar cipher.png**: A visual representation of the concept behind Ceasar cipher, one of the ciphers described in the research.
 - **Cryptography - Final Document.pdf**: The final document presented to the graduation committe.
 - **Cryptography - Presentation.pptx**: The presentation slides used at the oral examination for my graduation.
