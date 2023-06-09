@@ -4,7 +4,6 @@ A collection of all my past projects
 ## Project list
 
 - [Logical network of a house alarm system](./2019-11_House_alarm_network)
-  -
   - **Duration:** September 2019 to November 2019
   - **Location:** Tongji University
   - **Collaborators:** Vittorio Galletti
