@@ -19,6 +19,8 @@ An alternative solution involving crossover before the complex conjugate poles p
 
 Overall, the project involved systematically adjusting the crossover frequency, implementing feedforward and damping techniques, adding realizable poles and zeros, and optimizing actuator saturation to achieve a controller design that met the specifications.
 
+All the documents are in Italian.
+
 ## Files
 - **Control - Live Script.mlx**: A Matlab Live Script file containing the Matlab code and the theoretical explaination of the project.
 - **Control Scenario 3.slx**: A Simulink file containing the behaviour of the third scenary network after simulating uncertainty in the plant.
