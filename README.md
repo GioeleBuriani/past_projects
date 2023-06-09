@@ -9,11 +9,11 @@ A collection of all my past projects
     - **Collaborators:** Vittorio Galletti  
     - **Softwares:** Logisim, Microsoft Word  
 
-- [Literature research about cryptography](./2018-06_Cryptography_literature_review)
-    - **Duration:** January 2018 to June 2018
-    - **Location:** Liceo Ginnasio Luigi Galvani
-    - **Collaborators:** Bruno Buriani, Chiara Ferdori
-    - **Softwares:** Microsoft Power Point, Microsoft Word
++ [Literature research about cryptography](./2018-06_Cryptography_literature_review)
+    + **Duration:** January 2018 to June 2018
+    + **Location:** Liceo Ginnasio Luigi Galvani
+    + **Collaborators:** Bruno Buriani, Chiara Ferdori
+    + **Softwares:** Microsoft Power Point, Microsoft Word
 
 - [Simulation of the initial steps for a startup](./2017-08_Startup_simulation)
     - **Duration:** August 2017
