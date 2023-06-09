@@ -7,16 +7,16 @@ A collection of all my past projects
   - **Duration:** September 2019 to November 2019
   - **Location:** Tongji University
   - **Collaborators:** Vittorio Galletti
-  - **Softawares:** Logisim, Microsoft Word
+  - **Softwares:** Logisim, Microsoft Word
 
 - [Literature research about cryptography](./2018-06_Cryptography_literature_review)
   - **Duration:** January 2018 to June 2018
   - **Location:** Liceo Ginnasio Luigi Galvani
   - **Collaborators:** Bruno Buriani, Chiara Ferdori
-  - **Softawares:** Microsoft Power Point, Microsoft Word
+  - **Softwares:** Microsoft Power Point, Microsoft Word
 
 - [Simulation of the initial steps for a startup](./2017-08_Startup_simulation)
   - **Duration:** August 2017
   - **Location:** Greater Brighton Metropolitan College
   - **Collaborators:** Andrea Iuliano, Leonardo Di Già, Leonardo Rosa, Stefano Babini
-  - **Softawares:** Microsoft Power Point, Microsoft Word
+  - **Softawres:** Microsoft Power Point, Microsoft Word
