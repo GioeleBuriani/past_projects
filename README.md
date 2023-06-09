@@ -4,10 +4,11 @@ A collection of all my past projects
 ## Project list
 
 - [Logical network of a house alarm system](./2019-11_House_alarm_network)
-    - **Duration:** September 2019 to November 2019
-    - **Location:** Tongji University
-    - **Collaborators:** Vittorio Galletti
-    - **Softwares:** Logisim, Microsoft Word
+  -
+  - **Duration:** September 2019 to November 2019
+  - **Location:** Tongji University
+  - **Collaborators:** Vittorio Galletti
+  - **Softwares:** Logisim, Microsoft Word
 
 - [Literature research about cryptography](./2018-06_Cryptography_literature_review)
     - **Duration:** January 2018 to June 2018
