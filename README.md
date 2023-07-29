@@ -3,6 +3,11 @@ A collection of all my past projects
 
 ## Project list
 
+- [Simulink scheme of an electric drive](./2020-12_Electric_drive_Simulink)  
+    + **Location:** Alma Mater Studiorum – Università di Bologna  
+    + **Duration:** September 2020 to December 2020  
+    + **Softwares:** Simulink    
+
 + [Control for a highly unstable system](./2020-06_Stabilizing_system_control)  
     + **Location:** Alma Mater Studiorum – Università di Bologna  
     + **Duration:** February 2020 to June 2020  
