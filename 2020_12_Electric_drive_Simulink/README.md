@@ -2,7 +2,6 @@
 
 **Location**: Alma Mater Studiorum – Università di Bologna  
 **Period**: Sep 2020 - Dec 2020  
-**Collaborators**: \ 
 
 ## Context
 Within the Laboratory of electric drives course, I created the Simulink scheme of an entire electric drive that had to be tuned in order to achieve some specific final performances in terms of output current and voltage.
