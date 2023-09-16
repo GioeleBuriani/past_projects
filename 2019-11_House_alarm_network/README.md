@@ -1,7 +1,7 @@
 # Logical network of a house alarm system
 
 <br>
-<img src="./House%20Alaram%20-%20Full%20scheme.png" width="300">  
+<img src="./House%20Alarm%20-%20Full%20scheme.png" width="300">  
 <br>
 
 **Location**: Tongji University  
