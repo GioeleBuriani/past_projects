@@ -30,6 +30,7 @@ This repository serves as an archive for all my past projects.
     + **Softwares:** Microsoft Power Point, Microsoft Word  
 
 - [Simulation of the initial steps for a startup](./2017-08_Startup_simulation)
+      <img src="./2017-08_Startup_simulation/VisItaly%20-%20Logo.png" width="100" height="100"> 
     - **Location:** Greater Brighton Metropolitan College
     - **Duration:** August 2017
     - **Collaborators:** Andrea Iuliano, Leonardo Di Già, Leonardo Rosa, Stefano Babini
