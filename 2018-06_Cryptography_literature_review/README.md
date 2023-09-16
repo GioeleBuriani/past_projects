@@ -1,5 +1,9 @@
 # Literature research about cryptography
 
+<br>
+<img src="./Cryptography%20-%20Caesar%20Cipher.png" width="300" height="300">  
+<br>
+
 **Location**: Liceo Ginnasio Luigi Galvani  
 **Period**: Jan 2018 - Jun 2018  
 **Collaborators**: Bruno Buriani, Chiara Ferdori   
@@ -19,3 +23,4 @@ All the documents are in Italian.
 ## Files
 - **Cryptography - Final Document.pdf**: The final document presented to the graduation committee.
 - **Cryptography - Presentation.pptx**: The presentation slides used at the oral examination for my graduation.
+- **Cryptography - Caesar Cipher.png**: The graphical representation of the concept behind the Caesar cipher.
