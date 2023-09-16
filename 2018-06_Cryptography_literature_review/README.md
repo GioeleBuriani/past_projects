@@ -1,7 +1,7 @@
 # Literature research about cryptography
 
 <br>
-<img src="./Cryptography%20-%20Caesar%20Cipher.png" width="300" height="300">  
+<img src="./Cryptography%20-%20Caesar%20Cipher.png" width="300">  
 <br>
 
 **Location**: Liceo Ginnasio Luigi Galvani  
