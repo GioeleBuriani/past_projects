@@ -8,20 +8,23 @@ This repository serves as an archive for all my past projects.
 - [Simulink scheme of an electric drive](./2020_12_Electric_drive_Simulink)  
     + **Location:** Alma Mater Studiorum – Università di Bologna  
     + **Duration:** September 2020 to December 2020  
-    + **Softwares:** Simulink    
+    + **Softwares:** Simulink
+<br>
 
 + [Control for a highly unstable system](./2020-06_Stabilizing_system_control)  
     + **Location:** Alma Mater Studiorum – Università di Bologna  
     + **Duration:** February 2020 to June 2020  
     + **Collaborators:** Matteo Ambrosini, Vittorio Galletti  
     + **Softwares:** Matlab, Simulink  
-    + **Coding:** Matlab  
+    + **Coding:** Matlab
+<br>
 
 - [Logical network of a house alarm system](./2019-11_House_alarm_network)  
     - **Location:** Tongji University
     - **Duration:** September 2019 to November 2019    
     - **Collaborators:** Vittorio Galletti  
-    - **Softwares:** Logisim, Microsoft Word  
+    - **Softwares:** Logisim, Microsoft Word
+<br>
 
 + [Literature research about cryptography](./2018-06_Cryptography_literature_review)
     + **Location:** Liceo Ginnasio Luigi Galvani  
@@ -32,7 +35,7 @@ This repository serves as an archive for all my past projects.
 
 - [Simulation of the initial steps for a startup](./2017-08_Startup_simulation)
       <br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2017-08_Startup_simulation/VisItaly%20-%20Logo.png" width="100" height="100">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2017-08_Startup_simulation/VisItaly%20-%20Logo.png" width="150" height="150">
       <br>
     - **Location:** Greater Brighton Metropolitan College
     - **Duration:** August 2017
