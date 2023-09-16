@@ -1,5 +1,9 @@
 # Simulation of the Initial Steps of a Startup
 
+<br>
+<img src="./2017-08_Startup_simulation/VisItaly%20-%20Logo.png" width="300" height="300">  
+<br>
+
 **Location**: Greater Brighton Metropolitan College  
 **Period**: Aug 2017  
 **Collaborators**: Andrea Iuliano, Leonardo Di Già, Leonardo Rosa, Stefano Babini  
