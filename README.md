@@ -19,7 +19,10 @@ This repository serves as an archive for all my past projects.
     + **Coding:** Matlab
 <br>
 
-- [Logical network of a house alarm system](./2019-11_House_alarm_network)  
+- [Logical network of a house alarm system](./2019-11_House_alarm_network)
+      <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2019-11_House_alarm_network/House%20Alarm%20-%20Full%20scheme.png" width="150">
+      <br>
     - **Location:** Tongji University
     - **Duration:** September 2019 to November 2019    
     - **Collaborators:** Vittorio Galletti  
