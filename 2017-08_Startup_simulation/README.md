@@ -1,7 +1,7 @@
 # Simulation of the Initial Steps of a Startup
 
 <br>
-<img src="./VisItaly%20-%20Logo.png" width="300" height="300">  
+<img src="./VisItaly%20-%20Logo.png" width="300">  
 <br>
 
 **Location**: Greater Brighton Metropolitan College  
