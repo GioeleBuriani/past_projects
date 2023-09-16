@@ -1,5 +1,9 @@
 # Logical network of a house alarm system
 
+<br>
+<img src="./House%20Alaram%20-%20Full%20scheme.png" width="300">  
+<br>
+
 **Location**: Tongji University  
 **Period**: Sep 2019 - Nov 2019  
 **Collaborators**: Vittorio Galletti  
@@ -17,3 +21,4 @@ Overall, this project provides a comprehensive and customizable house alarm syst
 ## Files
 - **House alarm - Final network.circ**: The final logical network file, meant to be launched with the Logisim software.
 - **House alarm - Term paper.pdf**: The final term paper describing all the aspects of the project.
+- **House alarm - Full scheme.pdf**: The final term paper describing all the aspects of the project.
