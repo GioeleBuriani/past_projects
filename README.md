@@ -31,7 +31,7 @@ This repository serves as an archive for all my past projects.
 
 - [Simulation of the initial steps for a startup](./2017-08_Startup_simulation)
       <br>
-      <img src="./2017-08_Startup_simulation/VisItaly%20-%20Logo.png" width="100" height="100">
+      <img src="./2017-08_Startup_simulation/VisItaly%20-%20Logo.png" width="100" height="100" style="margin-left: 30px;>
       <br>
     - **Location:** Greater Brighton Metropolitan College
     - **Duration:** August 2017
