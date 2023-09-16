@@ -1,7 +1,7 @@
 # Literature research about cryptography
 
 <br>
-<img src="./Cryptography%20-%20Caesar%20Cipher.png" width="300">  
+<img src="./Cryptography%20-%20Caesar%20Cypher.png" width="300">  
 <br>
 
 **Location**: Liceo Ginnasio Luigi Galvani  
@@ -12,7 +12,7 @@
 As a final thesis for my high school graduation, I did literature research about the history and importance of cryptography. I analyzed the most significant steps in its development from the Roman Empire to the methods used nowadays, with a brief excursus on its importance in English literature (Edgar Allan Poe).
 
 ## Project Description
-This research provides a comprehensive exploration of cryptography, covering its historical significance and modern applications. It uncovers ancient secrets and their intriguing connection to Edgar Allan Poe. The study offers valuable insights into the fundamental elements of cryptography, including algorithms, keys, and cipher classification. It traces the evolution of cryptography, highlighting its ability to overcome challenges and become an essential component of the digital age.
+This research provides a comprehensive exploration of cryptography, covering its historical significance and modern applications. It uncovers ancient secrets and their intriguing connection to Edgar Allan Poe. The study offers valuable insights into the fundamental elements of cryptography, including algorithms, keys, and cypher classification. It traces the evolution of cryptography, highlighting its ability to overcome challenges and become an essential component of the digital age.
 
 The research specifically investigates the link between Edgar Allan Poe and cryptography, with a focus on his renowned work, "The Gold-Bug." Additionally, it explores modern cryptographic techniques such as public-key cryptography and the influential RSA algorithm, demonstrating their practical applications in secure communication.
 
@@ -23,4 +23,4 @@ All the documents are in Italian.
 ## Files
 - **Cryptography - Final Document.pdf**: The final document presented to the graduation committee.
 - **Cryptography - Presentation.pptx**: The presentation slides used at the oral examination for my graduation.
-- **Cryptography - Caesar Cipher.png**: The graphical representation of the concept behind the Caesar cipher.
+- **Cryptography - Caesar Cypher.png**: The graphical representation of the concept behind the Caesar cypher.
