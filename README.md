@@ -28,7 +28,7 @@ This repository serves as an archive for all my past projects.
 
 + [Literature research about cryptography](./2018-06_Cryptography_literature_review)
       <br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2018-06_Cryptography_literature_review/Cryptography%20-%20Caesar%20Cypher.png" width="150" height="150">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2018-06_Cryptography_literature_review/Cryptography%20-%20Caesar%20Cypher.png" width="150">
       <br>
     + **Location:** Liceo Ginnasio Luigi Galvani  
     + **Duration:** January 2018 to June 2018  
@@ -38,7 +38,7 @@ This repository serves as an archive for all my past projects.
 
 - [Simulation of the initial steps for a startup](./2017-08_Startup_simulation)
       <br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2017-08_Startup_simulation/VisItaly%20-%20Logo.png" width="150" height="150">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2017-08_Startup_simulation/VisItaly%20-%20Logo.png" width="150">
       <br>
     - **Location:** Greater Brighton Metropolitan College
     - **Duration:** August 2017
