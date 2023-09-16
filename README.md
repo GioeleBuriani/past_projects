@@ -28,6 +28,7 @@ This repository serves as an archive for all my past projects.
     + **Duration:** January 2018 to June 2018  
     + **Collaborators:** Bruno Buriani, Chiara Ferdori  
     + **Softwares:** Microsoft Power Point, Microsoft Word  
+<br>
 
 - [Simulation of the initial steps for a startup](./2017-08_Startup_simulation)
       <br>
