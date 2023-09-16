@@ -21,4 +21,4 @@ Overall, this project provides a comprehensive and customizable house alarm syst
 ## Files
 - **House alarm - Final network.circ**: The final logical network file, meant to be launched with the Logisim software.
 - **House alarm - Term paper.pdf**: The final term paper describing all the aspects of the project.
-- **House alarm - Full scheme.pdf**: The final term paper describing all the aspects of the project.
+- **House alarm - Full scheme.png**: The final term paper describing all the aspects of the project.
