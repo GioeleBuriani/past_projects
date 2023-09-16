@@ -27,6 +27,9 @@ This repository serves as an archive for all my past projects.
 <br>
 
 + [Literature research about cryptography](./2018-06_Cryptography_literature_review)
+      <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2018-06_Cryptography_literature_review/Cryptography%20-%20Caesar%20Cipher.png" width="150" height="150">
+      <br>
     + **Location:** Liceo Ginnasio Luigi Galvani  
     + **Duration:** January 2018 to June 2018  
     + **Collaborators:** Bruno Buriani, Chiara Ferdori  
