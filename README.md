@@ -8,7 +8,7 @@ This repository serves as an archive for all my past projects.
 - [Simulink scheme of an electric drive](./2020_12_Electric_drive_Simulink)  
     + **Location:** Alma Mater Studiorum – Università di Bologna  
     + **Duration:** September 2020 to December 2020  
-    + **Softwares:** Simulink
+    + **Softwares:** Simulink, Microsoft Word  
 <br>
 
 + [Control for a highly unstable system](./2020-06_Stabilizing_system_control)  
