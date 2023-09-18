@@ -1,5 +1,9 @@
 # PLC control for an elevator
 
+<br>
+<img src="./Elevator%20-%20Sim%20environment.png" width="300">  
+<br>
+
 **Location**: Alma Mater Studiorum – Università di Bologna  
 **Period**: Sep 2020 - Dec 2020  
 **Collaborators**: Vittorio Galletti
@@ -12,7 +16,7 @@ The project revolves around developing a control system for an elevator, focusin
 
 Initially, the system addressed emergency situations with the Doors GA, stopping the elevator when the emergency button is pressed during door operations. However, this approach only handled door-related emergencies. The introduction of the Move GA ensured the elevator would halt at the nearest deck during movement, further enhancing safety protocols. Yet, unforeseen circumstances, like sensor malfunctions, posed threats to the system’s efficiency.
 
-To tackle sensor faults, a comprehensive fault handling mechanism was instituted. The Move GA played a pivotal role, utilizing a Fault Detection step to diagnose anomalies based on sensor sequences. Still, this only tackled the identification part. The system's reaction to these faults, especially distinguishing between deck and ramp faults, demanded further refinements. Thus, additional branches in the Move GA were introduced to dictate the elevator’s behavior post fault detection, ensuring its course remains unimpeded and adheres to safety standards.
+To tackle sensor faults, a comprehensive fault-handling mechanism was instituted. The Move GA played a pivotal role, utilizing a Fault Detection step to diagnose anomalies based on sensor sequences. Still, this only tackled the identification part. The system's reaction to these faults, especially distinguishing between deck and ramp faults, demanded further refinements. Thus, additional branches in the Move GA were introduced to dictate the elevator’s behaviour post-fault detection, ensuring its course remains unimpeded and adheres to safety standards.
 
 While the Move GA addressed immediate reactions, the Policy layer was formulated to ensure the system's future interactions would discount any malfunctioning components. For instance, it actively avoided calls to compromised decks. An innovative feature was the full-stop mechanism, which halts the elevator operations after two simultaneous faults, underscoring the project's emphasis on safety.
 
@@ -24,3 +28,4 @@ In essence, the Elevator Control System project meticulously incorporated layers
 - **Elevator - Project Guidelines.pdf**: The document describing the project guidelines and containing a picture of the simulation interface 
 - **Elevator - Final Report.pdf**: The final report for the project
 - **Elevator - Project Code.pdf**: The project code file to be run with the Codesys software
+- **Elevator - Sim environment.png**: Image of the simulation environment
