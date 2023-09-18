@@ -5,9 +5,20 @@ This repository serves as an archive for all my past projects.
 
 ## Project list
 
-- [Simulink scheme of an electric drive](./2020_12_Electric_drive_Simulink)
++ [PLC control for an elevator](./2020-12_PLC_elevator_control)
       <br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2020_12_Electric_drive_Simulink/LED%20-%20Full%20system.png" width="150">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2020-12_PLC_elevator_control/Elevator%20-%20Sim%20environment.png" width="150">
+      <br>
+    + **Location:** Alma Mater Studiorum – Università di Bologna  
+    + **Duration:** September 2020 to December 2020  
+    + **Collaborators:** Vittorio Galletti  
+    + **Softwares:** Codesys, Microsoft Word  
+    + **Coding:** SFC, ST  
+<br>
+
+- [Simulink scheme of an electric drive](./2020-12_Electric_drive_Simulink)
+      <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2020-12_Electric_drive_Simulink/LED%20-%20Full%20system.png" width="150">
       <br>
     + **Location:** Alma Mater Studiorum – Università di Bologna  
     + **Duration:** September 2020 to December 2020  
