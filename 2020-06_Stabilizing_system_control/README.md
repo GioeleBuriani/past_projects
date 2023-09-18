@@ -29,4 +29,4 @@ All the documents are in Italian.
 - **Control - Live Script.mlx**: A Matlab Live Script file containing the Matlab code and the theoretical explanation of the project.
 - **Control Scenario 3.slx**: A Simulink file containing the behaviour of the third scenary network after simulating uncertainty in the plant.
 - **Control Scenario 6.slx**: A Simulink file containing the behaviour of the sixth scenary network after simulating uncertainty in the plant.
-- **Control - Step response**: A graphical representation of the final improvement on the step response of the controlled system.
+- **Control - Step response.png**: A graphical representation of the final improvement on the step response of the controlled system.
