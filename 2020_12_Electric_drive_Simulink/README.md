@@ -24,5 +24,6 @@ Ultimately, the project achieved results that met the stringent criteria. For in
 In conclusion, this endeavor involved intricate tuning of the drive system, in-depth analysis of the PWM modulation and 4 quadrant DC/DC converter subsystems, and rigorous validation against expected performance metrics. The culmination of these efforts resulted in a robust and efficient DC/DC drive system.
 
 ## Files
-- **LED - Report.pdf**: The report for the project containing the scheme explaination, parameters and measurements.
+- **LED - Report.pdf**: The report for the project containing the scheme explanation, parameters and measurements.
 - **LED - Simulink scheme.slx**: The Simulink program for the project.
+- **LED - Full system.png**: The Simulink scheme of the whole electric drive
