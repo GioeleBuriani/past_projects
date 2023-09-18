@@ -1,5 +1,9 @@
 # Control for a highly unstable system
 
+<br>
+<img src="./Control%20-%20Step%20response.png" width="300">  
+<br>
+
 **Location**: Alma Mater Studiorum – Università di Bologna  
 **Period**: Feb 2020 - Jun 2020  
 **Collaborators**: Matteo Ambrosini, Vittorio Galletti
@@ -22,6 +26,7 @@ Overall, the project involved systematically adjusting the crossover frequency, 
 All the documents are in Italian.
 
 ## Files
-- **Control - Live Script.mlx**: A Matlab Live Script file containing the Matlab code and the theoretical explaination of the project.
+- **Control - Live Script.mlx**: A Matlab Live Script file containing the Matlab code and the theoretical explanation of the project.
 - **Control Scenario 3.slx**: A Simulink file containing the behaviour of the third scenary network after simulating uncertainty in the plant.
 - **Control Scenario 6.slx**: A Simulink file containing the behaviour of the sixth scenary network after simulating uncertainty in the plant.
+- **Control - Step response**: A graphical representation of the final improvement on the step response of the controlled system.
