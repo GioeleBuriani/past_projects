@@ -11,7 +11,10 @@ This repository serves as an archive for all my past projects.
     + **Softwares:** Simulink, Microsoft Word  
 <br>
 
-+ [Control for a highly unstable system](./2020-06_Stabilizing_system_control)  
++ [Control for a highly unstable system](./2020-06_Stabilizing_system_control)
+      <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2020-06_Stabilizing_system_control/Control%20-%20Step%20response.png" width="150">
+      <br>
     + **Location:** Alma Mater Studiorum – Università di Bologna  
     + **Duration:** February 2020 to June 2020  
     + **Collaborators:** Matteo Ambrosini, Vittorio Galletti  
