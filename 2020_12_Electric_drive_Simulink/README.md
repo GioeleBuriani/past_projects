@@ -1,5 +1,9 @@
 # Simulink scheme of an electric drive
 
+<br>
+<img src="./LED%20-%20Full%20system.png" width="300">  
+<br>
+
 **Location**: Alma Mater Studiorum – Università di Bologna  
 **Period**: Sep 2020 - Dec 2020  
 
