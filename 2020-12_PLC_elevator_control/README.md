@@ -22,7 +22,7 @@ While the Move GA addressed immediate reactions, the Policy layer was formulated
 
 However, implementing these algorithms had its challenges. Arrays were adopted to streamline floor management and priority settings, but the considerations for time measurement in fault detection introduced uncertainties. These emanated from potential motor control variations and other mechanical delays, demanding alternative solutions.
 
-In essence, the Elevator Control System project meticulously incorporated layers of decision-making processes, emergency handling techniques, fault detection and management, and advanced algorithmic functions. It exemplified a delicate balance between rigorous safety protocols, user experience, and technical innovation. Through iterative refinements, from the Doors GA to the Policy layer, the system evolved into a holistic solution that promises safety, efficiency, and adaptability.
+In essence, the Elevator Control System project meticulously incorporated layers of decision-making processes, emergency handling techniques, fault detection and management, and advanced algorithmic functions. It exemplified a delicate balance between rigorous safety protocols, user experience, and technical innovation. Through iterative refinements, from the Doors GA to the Policy layer, the system evolved into a holistic solution that promises safety, efficiency, and adaptability. 
 
 ## Files
 - **Elevator - Project Guidelines.pdf**: The document describing the project guidelines and containing a picture of the simulation interface 
