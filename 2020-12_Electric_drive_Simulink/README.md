@@ -21,7 +21,7 @@ Performance diagrams and power measurements in both the source and load sections
 
 Ultimately, the project achieved results that met the stringent criteria. For instance, the output current ripple in steady state operation was 6.48%, and the rise time to transition from 0 to 50% of nominal speed was 62.7 ms, showcasing the system's efficiency and precision.
 
-In conclusion, this endeavor involved intricate tuning of the drive system, in-depth analysis of the PWM modulation and 4 quadrant DC/DC converter subsystems, and rigorous validation against expected performance metrics. The culmination of these efforts resulted in a robust and efficient DC/DC drive system.
+In conclusion, this endeavor involved intricate tuning of the drive system, in-depth analysis of the PWM modulation and 4 quadrant DC/DC converter subsystems, and rigorous validation against expected performance metrics. The culmination of these efforts resulted in a robust and efficient DC/DC drive system. 
 
 ## Files
 - **LED - Report.pdf**: The report for the project containing the scheme explanation, parameters and measurements.
