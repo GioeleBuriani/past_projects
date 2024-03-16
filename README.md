@@ -11,8 +11,8 @@ This repository serves as an archive for all my past projects.
       <br>
     + **Location:** Alma Mater Studiorum – Università di Bologna  
     + **Duration:** January 2021 to June 2021  
-    + **Softwares:** Overleaf, Matlab, Simulink, Mathematica  
-    + **Coding:** Matlab  
+    + **Softwares:** Matlab, Simulink, Wolfram Mathematica, Overleaf, Microsoft Power Point  
+    + **Coding:** Matlab, Latex  
 <br>
 
 + [PLC control for an elevator](./2020-12_PLC_elevator_control)
