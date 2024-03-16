@@ -1,7 +1,7 @@
 # 2D modelling and control of a ball-balancing robot
 
 <br>
-<img src="./2D_BBR%20-%20Horizontal_rolling/Horizontal_animation.gif" width="300"> <img src="./2D_BBR%20-%20Vertical_rolling/Vertical_animation.gif" width="300">
+<img src="./2D_BBR%20-%20Horizontal_rolling/Horizontal_animation.gif" width="300"> <img src="./2D_BBR%20-%20Vertical_rolling/Vertical_animation.gif" width="30">
 <br>
 
 **Location**: Alma Mater Studiorum – Università di Bologna  
