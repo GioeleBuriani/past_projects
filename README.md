@@ -5,6 +5,16 @@ This repository serves as an archive for all my past projects.
 
 ## Project list
 
+- [2D modelling and control of a ball-balancing robot](./2021-07_2D_ball_robot)
+      <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2021-07_2D_ball_robot/2D_BBR%20-%20Horizontal_rolling/Horizontal_animation.gif" width="150"><img src="./2021-07_2D_ball_robot/2D_BBR%20-%20Vertical_rolling/Vertical_animation.gif" width="150">
+      <br>
+    + **Location:** Alma Mater Studiorum – Università di Bologna  
+    + **Duration:** January 2021 to June 2021  
+    + **Softwares:** Overleaf, Matlab, Simulink, Mathematica  
+    + **Coding:** Matlab  
+<br>
+
 + [PLC control for an elevator](./2020-12_PLC_elevator_control)
       <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2020-12_PLC_elevator_control/Elevator%20-%20Sim%20environment.png" width="150">
