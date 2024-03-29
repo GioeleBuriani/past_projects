@@ -1,7 +1,7 @@
 # Path planning and control for a mobile manipulator
 
 <br>
-<img src="./Elevator%20-%20Sim%20environment.png" width="300">  
+<img src="./Planning%20-%20Animation.gif" width="300">  
 <br>
 
 **Location**: Technische Universiteit Delft  
