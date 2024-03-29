@@ -5,13 +5,24 @@ This repository serves as an archive for all my past projects.
 
 ## Project list
 
++ [Path planning and control for a mobile manipulator](./2022-01_Path_planning_manipulator)
+      <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2022-01_Path_planning_manipulator/Planning%20-%20Animation.gif" width="150">
+      <br>
+    + **Location:** Technische Universiteit Delft  
+    + **Duration:** November 2021 to January 2022  
+    + **Collaborators:** Amin Berjaoui Tahmaz, Edoardo Panichi, Giovanni Corvi  
+    + **Softwares:** VS Code, Github, Overleaf, Microsoft PowerPoint
+    + **Coding:** Python, Latex  
+<br>
+
 - [2D modelling and control of a ball-balancing robot](./2021-07_2D_ball_robot)
       <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2021-07_2D_ball_robot/2D_BBR%20-%20Horizontal_rolling/Horizontal_animation.gif" width="150"><img src="./2021-07_2D_ball_robot/2D_BBR%20-%20Vertical_rolling/Vertical_animation.gif" width="150">
       <br>
     + **Location:** Alma Mater Studiorum – Università di Bologna  
     + **Duration:** January 2021 to June 2021  
-    + **Softwares:** Matlab, Simulink, Wolfram Mathematica, Overleaf, Microsoft Power Point  
+    + **Softwares:** Matlab, Simulink, Wolfram Mathematica, Overleaf, Microsoft PowerPoint  
     + **Coding:** Matlab, Latex  
 <br>
 
