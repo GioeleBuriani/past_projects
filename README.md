@@ -5,6 +5,16 @@ This repository serves as an archive for all my past projects.
 
 ## Project list
 
+- [Pedestrian recognition by means of multiple sensors](./2022-01_Pedestrian_recognition)
+      <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2022-01_Pedestrain_recognition/Pedestrian%20-%20Animation.gif" width="150">
+      <br>
+    + **Location:** Technische Universiteit Delft  
+    + **Duration:** November 2021 to January 2022  
+    + **Softwares:** Jupyter Notebook
+    + **Coding:** Python  
+<br>
+
 + [Path planning and control for a mobile manipulator](./2022-01_Path_planning_manipulator)
       <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2022-01_Path_planning_manipulator/Planning%20-%20Animation.gif" width="150">
