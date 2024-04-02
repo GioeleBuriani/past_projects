@@ -1,7 +1,7 @@
 # Software to make a TIAGo robot help supermarket employees
 
 <br>
-<img src="./Planning%20-%20Animation.gif" width="300">  
+<img src="./TIAGo%20-%20Full%20animation.gif" width="300">  
 <br>
 
 **Location**: Technische Universiteit Delft  
@@ -25,4 +25,6 @@ Ultimately, the project succeeded in elevating TIAGo's capabilities, making it a
 ## Files
 - **TIAGo - Repository**: All the files coming from the shared GitLab repository for the project
 - **TIAGo - Final report.pdf**: Final report for the project
+- **TIAGo - Full animation.gif**: Animation of the TIAGo robot performing the full task
+- **TIAGo - Pick and place animation.gif**: Animation of the TIAGo robot performing pick and place with a focus view from RViz
 - **TIAGo - Presentation.pptx**: Final presentation for the project
