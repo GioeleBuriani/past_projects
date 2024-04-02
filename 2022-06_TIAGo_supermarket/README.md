@@ -1,7 +1,7 @@
 # Software to make a TIAGo robot help supermarket employees
 
 <br>
-<img src="./TIAGo%20-%20Full%20animation.gif" width="300">  
+<img src="./TIAGo%20-%20Full%20animation.gif" width="300"><img src="./TIAGo%20-%20Pick%20and%20place%20animation.gif" width="300">
 <br>
 
 **Location**: Technische Universiteit Delft  
