@@ -1,0 +1,36 @@
+objects:
+  ah_hagelslag_melk_tag36_11_00011:
+    aruco:
+      id: 
+        11
+  ah_hagelslag_puur_tag36_11_00019:
+    aruco:
+      id: 
+        19
+  ah_hagelslag_aruco_17: 
+    aruco:
+      id:
+        17
+    position:
+      x: 1.4
+      y: 2.9
+      z: 1.05
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: -1.0
+      w: 0.0
+  ah_hagelslag_aruco_0: 
+    aruco:
+      id:
+        0
+  wp_shelf_1:
+    position:
+      x: -3.5
+      y: 0.5
+      z: 0.90
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1

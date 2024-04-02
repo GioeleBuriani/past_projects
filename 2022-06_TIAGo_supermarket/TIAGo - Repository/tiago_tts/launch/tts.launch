@@ -1,0 +1,9 @@
+<launch>
+	<!-- Launch file for TIAGo's text-to-speech node, it launches the text client listener
+	that gets the messages sent by the other components of the solution and connects with the
+	action client that connects with soundplay for text sound reproduction -->
+	
+	<node name="sound_play_node" pkg="sound_play" type="soundplay_node.py" />
+	<node name="tts_to_soundplay" pkg="tts" type="tts_to_soundplay.py" />
+	<node name="tts_client" pkg="tiago_tts" type="tts_client_topic.py" output="screen"/>
+</launch>

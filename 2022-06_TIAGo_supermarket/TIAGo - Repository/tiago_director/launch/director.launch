@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<launch>
+
+	<!-- launch user interface -->
+	<include file="$(find tiago_gui)/launch/gui.launch" />
+
+	<!-- launch PDDL for pick and place actions -->
+	<include file="$(find planning_control)/launch/project.launch" />
+
+	<node name="tiago_director" pkg="tiago_director" type="tiago_director" launch-prefix="xterm -e"/>
+
+	<node name="detector" pkg="detection" type="aruco_detection"/>
+
+	<include file="$(find tiago_tts)/launch/tts.launch"/> 
+
+	<!--<node name="tts_client" pkg="tiago_tts" type="tts_client_topic_real_robot.py" output="screen"/> -->
+
+</launch>

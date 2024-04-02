@@ -1,0 +1,5 @@
+<launch>
+    <!-- Launch file for the gui package, launches the required node --> 
+    <node name="server" pkg="dyn_reconf_mdp" type="server" output="screen"/>
+    <node name="tiago_gui" pkg="tiago_gui" type="tiago_gui" output="screen" required="true"/>
+</launch>

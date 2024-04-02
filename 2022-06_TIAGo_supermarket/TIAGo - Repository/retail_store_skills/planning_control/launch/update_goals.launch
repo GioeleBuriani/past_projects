@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<launch>  
+    <!-- Add the update_goals node -->
+    <node name="update_goals" pkg="planning_control" type="update_goals.py" output="screen"/>
+</launch>
