@@ -5,6 +5,16 @@ This repository serves as an archive for all my past projects.
 
 ## Project list
 
++ [Software to make a TIAGo robot help supermarket employees](./2022-06_TIAGo_supermarket)
+      <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2022-06_TIAGo_supermarket/TIAGo%20-%20Full%20animation.gif" width="150"><img src="./2022-06_TIAGo_supermarket/TIAGo%20-%20Pick%20and%20place%20animation.gif" width="150">
+      <br>
+    + **Location:** Alma Mater Studiorum – Università di Bologna  
+    + **Duration:** January 2021 to June 2021  
+    + **Softwares:** Matlab, Simulink, Wolfram Mathematica, Overleaf, Microsoft PowerPoint  
+    + **Coding:** Matlab, Latex  
+<br>
+
 - [Pedestrian recognition by means of multiple sensors](./2022-01_Pedestrian_recognition)
       <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2022-01_Pedestrian_recognition/Pedestrian%20-%20Animation.gif" width="150">
