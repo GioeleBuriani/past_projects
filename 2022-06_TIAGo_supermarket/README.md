@@ -1,27 +1,28 @@
-# Path planning and control for a mobile manipulator
+# Software to make a TIAGo robot help supermarket employees
 
 <br>
 <img src="./Planning%20-%20Animation.gif" width="300">  
 <br>
 
 **Location**: Technische Universiteit Delft  
-**Period**: Nov 2021 - Jan 2022  
-**Collaborators**: Amin Berjaoui Tahmaz, Edoardo Panichi, Giovanni Corvi
+**Period**: Apr 2022 - Jun 2022  
+**Collaborators**: Max Polack, Pim de Ruijter, Ruben Martin-Rodriguez, Yuezhe Zhang
 
 ## Context
-Within the Planning & Decision Making course, we created a path planner for a mobile manipulator moving on a differential drive. The robot had to move within a simulated 2D environment with obstacles and reach some randomized goal positions for both its body and its gripper. The path planner was a hybrid form between an RRT and an informed-RRT*, on which a trajectory smoother acted to make the path feasible for the controller (a simple PID).
+Within the Multidisciplinary Project course, we had to develop software for the control of a TIAGo robot for Ahold Delhaize, one of the biggest multinational retail and wholesale companies in the world. Our objective was to make TIAGo help supermarket employees to manage their workload, especially during rush hour. We decided to make TIAGo cyclically collect products left at the check-out, recognize them, pick them up and place them back on the correct original shelf. In order to manage this project, our team was divided into Human-Robot Interaction, Navigation, Perception, Planning and Motion Control specialists. I took the latter role. In order to make everything work together, we implemented several ROS nodes communicating with each other.
 
 ## Project Description
-This project explores the development of a sophisticated motion planning algorithm for a differential drive mobile manipulator operating within a hospital environment. The challenge involves navigating through various rooms, avoiding obstacles, and achieving a cost-effective path to randomized goal positions. Utilizing a unique blend of RRT (Rapidly-exploring Random Tree) and informed-RRT* algorithms, we engineered a solution that balances efficiency with path optimization. The introduction of a trajectory smoothing process further refines the robot's path, making it compatible with its differential drive mechanism. Additionally, the manipulator's movements are precisely controlled via a PID controller, ensuring the robot can perform tasks like transporting medical supplies between locations.
+This project aimed at refining the operational capabilities of the TIAGo robot within the supermarket context, specifically focusing on the automation of returning products left at checkout counters to their designated shelves. The challenge was multifaceted, involving the seamless integration of human-robot interaction, precise navigation through varied and dynamic store layouts, accurate product recognition, and efficient planning and execution of motion control tasks. The essence of the project was to enhance TIAGo’s utility in assisting staff during high-traffic periods, thereby optimizing workflow and ensuring a well-maintained shopping environment.
 
-The robot model incorporates a 'roomba-like' differential drive and a 2-degree-of-freedom planar manipulator, specifically designed for navigating the complex layout of a hospital. This design enables the robot to perform simple mechanical tasks, enhancing the efficiency of medical staff. The motion planning strategy begins with the basic RRT algorithm to quickly establish a feasible path, which is then refined through informed-RRT* for optimal path efficiency. This process is tailored to minimize computation time while maintaining path quality, crucial for real-world applications.
+To achieve this, we developed a complex control system comprising several ROS nodes that facilitated robust communication and coordination among the robot’s subsystems. Key to the system's success was its ability to interact intelligently with both the environment and human operators, ensuring smooth navigation and obstacle avoidance. The project also introduced a sophisticated perception mechanism for TIAGo, enabling it to identify and categorize various products accurately.
 
-The project's results demonstrate the algorithm's capability to adapt to varied goal positions and obstacles efficiently, showcasing a scalable solution for autonomous navigation in healthcare settings. The motion planner's success in a simulated environment highlights its potential for real-world deployment, promising significant benefits in operational efficiency and resource allocation in hospitals.
+A notable aspect of our development was the implementation of advanced motion control algorithms. These were crucial for enabling TIAGo to execute precise pick-and-place operations, a task that required a high degree of accuracy and adaptability. The integration of planning algorithms ensured that TIAGo could autonomously decide on the most efficient routes and actions, adapting in real-time to changes within the supermarket.
 
-Through iterative development and testing, the project presents a comprehensive solution that combines advanced algorithmic approaches with practical robotics design. It exemplifies a balance between technical sophistication and practical utility, paving the way for future advancements in robotic applications within healthcare and beyond.
+However, the project was not without its challenges. Ensuring reliable product detection and handling in a highly variable environment required iterative testing and fine-tuning of the perception algorithms. Additionally, the navigation system had to be optimized to deal with the unpredictable nature of crowded spaces, balancing speed and safety to navigate effectively around shoppers and obstacles.
+
+Ultimately, the project succeeded in elevating TIAGo's capabilities, making it an invaluable asset for supermarket staff. By automating the task of returning misplaced products, we not only streamlined store operations but also contributed to a more pleasant shopping experience. The project stands as a testament to the potential of robotics in retail, showcasing how sophisticated control systems can enhance efficiency, accuracy, and customer satisfaction in real-world applications.
 
 ## Files
-- **Planning - Code**: Folder containing all the Python scripts to run the project code 
-- **Planning - Animation.gif**: Animation of a test
-- **Planning - Final report.pdf**: Final report for the project
-- **Planning - Presentation.pptx**: Final presentation for the project
+- **TIAGo - Repository**: All the files coming from the shared GitLab repository for the project
+- **TIAGo - Final report.pdf**: Final report for the project
+- **TIAGo - Presentation.pptx**: Final presentation for the project
