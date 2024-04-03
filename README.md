@@ -7,7 +7,7 @@ This repository serves as an archive for all my past projects.
 
 + [Building a soft gripper as end-effector of a cobot mounted on top of a quadruped robot](https://github.com/GioeleBuriani/2022-11_Soft_gripper_quadruped)
       <br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2022-11_Soft_gripper_quadruped/Internship%20-%20Animation.gif" width="150">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/GioeleBuriani/2022-11_Soft_gripper_quadruped/2022-11_Soft_gripper_quadruped/Internship%20-%20Animation.gif" width="150">
       <br>
     + **Location:** German Aerospace Center (DLR)  
     + **Duration:** September 2022 to November 2022
