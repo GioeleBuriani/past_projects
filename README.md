@@ -5,7 +5,7 @@ This repository serves as an archive for all my past projects.
 
 ## Project list
 
-+ [Building a soft gripper as end-effector of a cobot mounted on top of a quadruped robot](./2022-11_Soft_gripper_quadruped)
++ [Building a soft gripper as end-effector of a cobot mounted on top of a quadruped robot](https://github.com/GioeleBuriani/2022-11_Soft_gripper_quadruped)
       <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2022-11_Soft_gripper_quadruped/Internship%20-%20Animation.gif" width="150">
       <br>
