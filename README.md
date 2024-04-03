@@ -5,6 +5,15 @@ This repository serves as an archive for all my past projects.
 
 ## Project list
 
+- [Control of OpenAI Gym Lunar Lander with Deep Q-Learning](./2022-08_Lunar_lander_learning)
+      <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2022-08_Lunar_lander_learning/Lander%20-%20Animation.gif" width="150">
+      <br>
+    + **Location:** Technische Universiteit Delft  
+    + **Duration:** June 2022 to August 2022  
+    + **Softwares:** VS Code, Overleaf
+    + **Coding:** Python, Latex  
+
 + [Software to make a TIAGo robot help supermarket employees](./2022-06_TIAGo_supermarket)
       <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2022-06_TIAGo_supermarket/TIAGo%20-%20Full%20animation.gif" width="150"><img src="./2022-06_TIAGo_supermarket/TIAGo%20-%20Pick%20and%20place%20animation.gif" width="150">
