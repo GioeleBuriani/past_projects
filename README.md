@@ -5,6 +5,17 @@ This repository serves as an archive for all my past projects.
 
 ## Project list
 
++ [Building a soft gripper as end-effector of a cobot mounted on top of a quadruped robot](./2022-11_Soft_gripper_quadruped)
+      <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2022-11_Soft_gripper_quadruped/Internship%20-%20Animation.gif" width="150">
+      <br>
+    + **Location:** German Aerospace Center (DLR)  
+    + **Duration:** September 2022 to November 2022
+    + **Collaborators:** Edoardo Milana
+    + **Softwares:** VS Code, ROS, Microsoft PowerPoint  
+    + **Coding:** Python, C++, Latex  
+<br>
+
 - [Control of OpenAI Gym Lunar Lander with Deep Q-Learning](./2022-08_Lunar_lander_learning)
       <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2022-08_Lunar_lander_learning/Lander%20-%20Animation.gif" width="150">
@@ -22,7 +33,7 @@ This repository serves as an archive for all my past projects.
     + **Location:** Technische Universiteit Delft  
     + **Duration:** April 2022 to June 2022
     + **Collaborators:** Max Polack, Pim de Ruijter, Ruben Martin-Rodriguez, Yuezhe Zhang
-    + **Softwares:** VS Code, Git, Overleaf, Microsoft PowerPoint  
+    + **Softwares:** VS Code, ROS, Git, Overleaf, Microsoft PowerPoint  
     + **Coding:** Python, C++, Latex  
 <br>
 
