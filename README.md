@@ -23,7 +23,6 @@ This repository serves as an archive for all my past projects.
     + **Collaborators:** Max Polack, Pim de Ruijter, Ruben Martin-Rodriguez, Yuezhe Zhang
     + **Softwares:** VS Code, Git, Overleaf, Microsoft PowerPoint  
     + **Coding:** Python, C++, Latex  
-<br>
 
 - [Pedestrian recognition by means of multiple sensors](./2022-01_Pedestrian_recognition)
       <br>
@@ -33,7 +32,6 @@ This repository serves as an archive for all my past projects.
     + **Duration:** November 2021 to January 2022  
     + **Softwares:** Jupyter Notebook
     + **Coding:** Python  
-<br>
 
 + [Path planning and control for a mobile manipulator](./2022-01_Path_planning_manipulator)
       <br>
@@ -44,7 +42,6 @@ This repository serves as an archive for all my past projects.
     + **Collaborators:** Amin Berjaoui Tahmaz, Edoardo Panichi, Giovanni Corvi  
     + **Softwares:** VS Code, Git, Overleaf, Microsoft PowerPoint
     + **Coding:** Python, Latex  
-<br>
 
 - [2D modelling and control of a ball-balancing robot](./2021-07_2D_ball_robot)
       <br>
@@ -54,7 +51,6 @@ This repository serves as an archive for all my past projects.
     + **Duration:** January 2021 to June 2021  
     + **Softwares:** Matlab, Simulink, Wolfram Mathematica, Overleaf, Microsoft PowerPoint  
     + **Coding:** Matlab, Latex  
-<br>
 
 + [PLC control for an elevator](./2020-12_PLC_elevator_control)
       <br>
@@ -65,7 +61,6 @@ This repository serves as an archive for all my past projects.
     + **Collaborators:** Vittorio Galletti  
     + **Softwares:** Codesys, Microsoft Word  
     + **Coding:** SFC, ST  
-<br>
 
 - [Simulink scheme of an electric drive](./2020-12_Electric_drive_Simulink)
       <br>
@@ -74,7 +69,6 @@ This repository serves as an archive for all my past projects.
     + **Location:** Alma Mater Studiorum – Università di Bologna  
     + **Duration:** September 2020 to December 2020  
     + **Softwares:** Simulink, Microsoft Word  
-<br>
 
 + [Control for a highly unstable system](./2020-06_Stabilizing_system_control)
       <br>
@@ -85,7 +79,6 @@ This repository serves as an archive for all my past projects.
     + **Collaborators:** Matteo Ambrosini, Vittorio Galletti  
     + **Softwares:** Matlab, Simulink  
     + **Coding:** Matlab
-<br>
 
 - [Logical network of a house alarm system](./2019-11_House_alarm_network)
       <br>
@@ -95,7 +88,6 @@ This repository serves as an archive for all my past projects.
     - **Duration:** September 2019 to November 2019    
     - **Collaborators:** Vittorio Galletti  
     - **Softwares:** Logisim, Microsoft Word
-<br>
 
 + [Literature research about cryptography](./2018-06_Cryptography_literature_review)
       <br>
@@ -105,7 +97,6 @@ This repository serves as an archive for all my past projects.
     + **Duration:** January 2018 to June 2018  
     + **Collaborators:** Bruno Buriani, Chiara Ferdori  
     + **Softwares:** Microsoft Power Point, Microsoft Word  
-<br>
 
 - [Simulation of the initial steps for a startup](./2017-08_Startup_simulation)
       <br>
