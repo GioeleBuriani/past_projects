@@ -14,7 +14,7 @@ This repository serves as an archive for all my past projects.
     + **Coding:** Python, C++, Latex  
 <br>
 
-- [Control of OpenAI Gym Lunar Lander with Deep Q-Learning](./2022-08_Lunar_lander_learning)
+- [Control of OpenAI Gym Lunar Lander with Deep Q-learning](./2022-08_Lunar_lander_learning)
       <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2022-08_Lunar_lander_learning/Lander%20-%20Animation.gif" width="150">
       <br>
