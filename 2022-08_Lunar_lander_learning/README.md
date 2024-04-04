@@ -1,4 +1,4 @@
-# Control of OpenAI Gym Lunar Lander with Deep Q-Learning
+# Control of OpenAI Gym Lunar Lander with Deep Q-learning
 
 <br>
 <img src="./Lander%20-%20Animation.gif" width="300">
