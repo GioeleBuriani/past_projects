@@ -1,7 +1,7 @@
 # Past Projects
 My name is Gioele Buriani, I am an Italian student currently attending the MSc Robotics programme at TU Delft, in the Netherlands. I did my bachelor's in Automation Engineering at Alma Mater Studiorum University in Bologna, also participating in a double degree programme with Tongji University in Shanghai.
 
-This repository serves as an archive for all my past projects.
+This repository serves as an archive for all my past projects. For a more concise selection of my most relevant projects check out my [portfolio](./Gioele%20Buriani%20-%20Portfolio).
 
 ## Project list
 
