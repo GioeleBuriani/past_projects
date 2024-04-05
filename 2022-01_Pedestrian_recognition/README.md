@@ -19,7 +19,7 @@ Expanding upon this, the multi-sensor approach integrates data from LiDAR and ra
 
 Crucially, both methods involve intricate data processing and fusion techniques. For the camera-only system, the project exploits the geometric relationships between the camera's viewpoint and the ground plane, alongside advanced image processing to propose likely pedestrian locations. In contrast, the multi-sensor strategy employs clustering algorithms on LiDAR point clouds to identify potential pedestrian forms, which are then correlated with radar signals and visual data from the camera to confirm detections and refine their positions in 3D space.
 
-Throughout the development process, the project faced challenges related to sensor data interpretation, algorithm optimization, and the integration of disparate data sources into a cohesive detection framework. By addressing these issues, the project demonstrates the potential of both mono-camera and multi-sensor approaches to significantly advance pedestrian detection capabilities, crucial for the safety and reliability of autonomous vehicle navigation systems.
+Throughout the development process, the project faced challenges related to sensor data interpretation, algorithm optimization, and the integration of disparate data sources into a cohesive detection framework. By addressing these issues, the project demonstrates the potential of both mono-camera and multi-sensor approaches to significantly advance pedestrian detection capabilities, crucial for the safety and reliability of autonomous vehicle navigation systems. 
 
 ## Files
 - **Pedestrian - Setup**: Folder containing configuration files and guides to set up the environment 
