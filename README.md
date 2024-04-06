@@ -5,7 +5,7 @@ This repository serves as an archive for all my past projects. For a more concis
 
 ## Project list
 
-+ [Soft gripper as end-effector of a cobot mounted on top of a quadruped robot](https://github.com/GioeleBuriani/2022-11_Soft_gripper_quadruped) (private)
+- [Soft gripper as end-effector of a cobot mounted on top of a quadruped robot](https://github.com/GioeleBuriani/2022-11_Soft_gripper_quadruped) (private)
       <br>
     + **Location:** German Aerospace Center (DLR)  
     + **Duration:** September 2022 to November 2022
@@ -14,7 +14,7 @@ This repository serves as an archive for all my past projects. For a more concis
     + **Coding:** Python, C++, Latex  
 <br>
 
-- [Control of OpenAI Gym Lunar Lander with Deep Q-learning](./2022-08_Lunar_lander_learning)
++ [Control of OpenAI Gym Lunar Lander with Deep Q-learning](./2022-08_Lunar_lander_learning)
       <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2022-08_Lunar_lander_learning/Lander%20-%20Animation.gif" width="150">
       <br>
@@ -24,7 +24,7 @@ This repository serves as an archive for all my past projects. For a more concis
     + **Coding:** Python, Latex
 <br>
 
-+ [Software to make a TIAGo robot help supermarket employees](./2022-06_TIAGo_supermarket)
+- [Software to make a TIAGo robot help supermarket employees](./2022-06_TIAGo_supermarket)
       <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2022-06_TIAGo_supermarket/TIAGo%20-%20Full%20animation.gif" width="150"><img src="./2022-06_TIAGo_supermarket/TIAGo%20-%20Pick%20and%20place%20animation.gif" width="150">
       <br>
@@ -35,7 +35,7 @@ This repository serves as an archive for all my past projects. For a more concis
     + **Coding:** Python, C++, Latex  
 <br>
 
-- [Pedestrian recognition by means of multiple sensors](./2022-01_Pedestrian_recognition)
++ [Pedestrian recognition by means of multiple sensors](./2022-01_Pedestrian_recognition)
       <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2022-01_Pedestrian_recognition/Pedestrian%20-%20Animation.gif" width="150">
       <br>
@@ -45,7 +45,7 @@ This repository serves as an archive for all my past projects. For a more concis
     + **Coding:** Python  
 <br>
 
-+ [Path planning and control for a mobile manipulator](./2022-01_Path_planning_manipulator)
+- [Path planning and control for a mobile manipulator](./2022-01_Path_planning_manipulator)
       <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2022-01_Path_planning_manipulator/Planning%20-%20Animation.gif" width="150">
       <br>
@@ -54,6 +54,16 @@ This repository serves as an archive for all my past projects. For a more concis
     + **Collaborators:** Amin Berjaoui Tahmaz, Edoardo Panichi, Giovanni Corvi  
     + **Softwares:** VS Code, Git, Overleaf, Microsoft PowerPoint
     + **Coding:** Python, Latex  
+<br>
+
++ [Business plan for a start-up](./2022-01_Business_plan_startup)
+      <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2022-01_Business_plan_startup/Cloth-E%20-%20Logo.png" width="150">
+      <br>
+    + **Location:** Technische Universiteit Delft  
+    + **Duration:** November 2021 to January 2022  
+    + **Collaborators:** Edoardo Panichi, Isabel Gouveia, Siert Sebus  
+    + **Softwares:** Microsoft Word, Microsoft Excel, Canva  
 <br>
 
 - [Combination of obstacle avoidance and pedestrian detection for a self-driving car](./2021-11_Obstacle_pedestrian_navigation)
