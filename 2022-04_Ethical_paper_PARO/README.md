@@ -1,4 +1,4 @@
-# Literature review on exploiting symmetries in reinforcement learning
+# Ethical paper on the morality of PARO Therapeutic Robot
 
 <br>
 <img src="./Paro%20-%20Image.png" width="300">
