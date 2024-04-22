@@ -5,7 +5,7 @@ This repository serves as an archive for all my past projects. For a more concis
 
 ## Project list
 
-- [Soft gripper as end-effector of a cobot mounted on top of a quadruped robot](https://github.com/GioeleBuriani/2022-11_Soft_gripper_quadruped) (private)
++ [Soft gripper as end-effector of a cobot mounted on top of a quadruped robot](https://github.com/GioeleBuriani/2022-11_Soft_gripper_quadruped) (private)
       <br>
     + **Location:** German Aerospace Center (DLR)  
     + **Duration:** September 2022 to November 2022
@@ -14,7 +14,7 @@ This repository serves as an archive for all my past projects. For a more concis
     + **Coding:** Python, C++, Latex  
 <br>
 
-+ [Control of OpenAI Gym Lunar Lander with Deep Q-learning](./2022-08_Lunar_lander_learning)
+- [Control of OpenAI Gym Lunar Lander with Deep Q-learning](./2022-08_Lunar_lander_learning)
       <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2022-08_Lunar_lander_learning/Lander%20-%20Animation.gif" width="150">
       <br>
@@ -24,7 +24,7 @@ This repository serves as an archive for all my past projects. For a more concis
     + **Coding:** Python, Latex
 <br>
 
-- [Software to make a TIAGo robot help supermarket employees](./2022-06_TIAGo_supermarket)
++ [Software to make a TIAGo robot help supermarket employees](./2022-06_TIAGo_supermarket)
       <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2022-06_TIAGo_supermarket/TIAGo%20-%20Full%20animation.gif" width="150"><img src="./2022-06_TIAGo_supermarket/TIAGo%20-%20Pick%20and%20place%20animation.gif" width="150">
       <br>
@@ -33,6 +33,17 @@ This repository serves as an archive for all my past projects. For a more concis
     + **Collaborators:** Max Polack, Pim de Ruijter, Ruben Martin-Rodriguez, Yuezhe Zhang
     + **Softwares:** VS Code, ROS, Git, Overleaf, Microsoft PowerPoint  
     + **Coding:** Python, C++, Latex  
+<br>
+
+- [Shooting range simulation with a haptic device](./2022-04_Haptic_shooting_range)
+      <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2022-04_Haptic_shooting_range/Haply%20-%20Animation.gif" width="150">
+      <br>
+    + **Location:** Technische Universiteit Delft  
+    + **Duration:** February 2022 to April 2022
+    + **Collaborators:** Edoardo Panichi, Giovanni Corvi, Severin Woernle
+    + **Softwares:** VS Code, Git, Microsoft PowerPoint  
+    + **Coding:** Python  
 <br>
 
 + [Pedestrian recognition by means of multiple sensors](./2022-01_Pedestrian_recognition)
