@@ -5,7 +5,7 @@ This repository serves as an archive for all my past projects. For a more concis
 
 ## Project list
 
-- [Soft gripper as end-effector of a cobot mounted on top of a quadruped robot](https://github.com/GioeleBuriani/2022-11_Soft_gripper_quadruped) (private)
++ [Soft gripper as end-effector of a cobot mounted on top of a quadruped robot](https://github.com/GioeleBuriani/2022-11_Soft_gripper_quadruped) (private)
       <br>
     + **Location:** German Aerospace Center (DLR)  
     + **Duration:** September 2022 to November 2022
@@ -14,7 +14,7 @@ This repository serves as an archive for all my past projects. For a more concis
     + **Coding:** Python, C++, Latex  
 <br>
 
-+ [Control of OpenAI Gym Lunar Lander with Deep Q-learning](./2022-08_Lunar_lander_learning)
+- [Control of OpenAI Gym Lunar Lander with Deep Q-learning](./2022-08_Lunar_lander_learning)
       <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2022-08_Lunar_lander_learning/Lander%20-%20Animation.gif" width="150">
       <br>
@@ -24,7 +24,7 @@ This repository serves as an archive for all my past projects. For a more concis
     + **Coding:** Python, Latex
 <br>
 
-- [Software to make a TIAGo robot help supermarket employees](./2022-06_TIAGo_supermarket)
++ [Software to make a TIAGo robot help supermarket employees](./2022-06_TIAGo_supermarket)
       <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2022-06_TIAGo_supermarket/TIAGo%20-%20Full%20animation.gif" width="150"><img src="./2022-06_TIAGo_supermarket/TIAGo%20-%20Pick%20and%20place%20animation.gif" width="150">
       <br>
@@ -35,7 +35,7 @@ This repository serves as an archive for all my past projects. For a more concis
     + **Coding:** Python, C++, Latex  
 <br>
 
-+ [Literature review on exploiting symmetries in reinforcement learning](./2022-04_Review_symmetries_RL)
+- [Literature review on exploiting symmetries in reinforcement learning](./2022-04_Review_symmetries_RL)
       <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2022-04_Review_symmetries_RL/Review%20-%20Image.png" width="150">
       <br>
@@ -46,7 +46,7 @@ This repository serves as an archive for all my past projects. For a more concis
     + **Coding:** Latex  
 <br>
 
-- [Shooting range simulation with a haptic device](./2022-04_Haptic_shooting_range)
++ [Shooting range simulation with a haptic device](./2022-04_Haptic_shooting_range)
       <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2022-04_Haptic_shooting_range/Haply%20-%20Animation.gif" width="150">
       <br>
@@ -55,6 +55,17 @@ This repository serves as an archive for all my past projects. For a more concis
     + **Collaborators:** Edoardo Panichi, Giovanni Corvi, Severin Woernle
     + **Softwares:** VS Code, Git, Microsoft PowerPoint  
     + **Coding:** Python  
+<br>
+
+- [Ethical paper on the morality of PARO Therapeutic Robot](./2022-04_Ethical_paper_PARO)
+      <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2022-04_Ethical_paper_PARO/Paro%20-%20Image.png" width="150">
+      <br>
+    + **Location:** Technische Universiteit Delft  
+    + **Duration:** February 2022 to April 2022
+    + **Collaborators:** Amin Berjaoui Tahmaz, Edoardo Panichi, Giovanni Corvi
+    + **Softwares:** Overleaf  
+    + **Coding:** Latex  
 <br>
 
 + [Pedestrian recognition by means of multiple sensors](./2022-01_Pedestrian_recognition)
