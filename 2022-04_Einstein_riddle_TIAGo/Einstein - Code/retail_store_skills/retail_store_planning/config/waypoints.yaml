@@ -1,0 +1,121 @@
+waypoints:
+  wp0:
+    position:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  wp_table_1:
+    position:
+      x: -1.12
+      y: 1.15
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.707
+      w: 0.707
+  wp_table_2:
+    position:
+      x: 0.9
+      y: 1.15
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.707
+      w: 0.707
+  wp_table_2_left:
+    position:
+      x: 0.7
+      y: 1.15
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.707
+      w: 0.707
+  wp_table_3:
+    position:
+      x: 1.15
+      y: -0.03
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0 
+      w: 1.0
+  wp_table_3_left:
+    position:
+      x: 1.15
+      y: 0.3
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0 
+      w: 1.0
+  wp_cabinet_1:
+    position:
+      x: 0.51
+      y: -1.23
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: -0.707
+      w: 0.707
+  wp_cabinet_1_left:
+    position:
+      x: 0.92
+      y: -1.23
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: -0.707
+      w: 0.707
+  wp_cabinet_1_right:
+    position:
+      x: 0.2
+      y: -1.23
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: -0.707
+      w: 0.707
+  wp_cabinet_2:
+    position:
+      x: -0.51
+      y: -1.23
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: -0.707
+      w: 0.707
+  wp_cabinet_2_left:
+    position:
+      x: -0.1
+      y: -1.23
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: -0.707
+      w: 0.707
+  wp_cabinet_2_right:
+    position:
+      x: -0.82
+      y: -1.23
+      z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: -0.707
+      w: 0.707

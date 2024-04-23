@@ -1,0 +1,151 @@
+locations:
+  shelf_1_loc_1: 
+    position:
+      x: -0.25
+      y: -1.76
+      z: 0.86
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  shelf_1_loc_2: 
+    position:
+      x: -0.51
+      y: -1.76
+      z: 0.86
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  shelf_1_loc_3: 
+    position:
+      x: -0.77
+      y: -1.76
+      z: 0.86
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  shelf_2_loc_1: 
+    position:
+      x: 0.77
+      y: -1.76
+      z: 1.10
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  shelf_2_loc_2: 
+    position:
+      x: 0.51
+      y: -1.76
+      z: 1.10
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  shelf_2_loc_3: 
+    position:
+      x: 0.25
+      y: -1.76
+      z: 1.10
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  shelf_3_loc_1: 
+    position:
+      x: -0.25
+      y: -1.76
+      z: 1.26
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  shelf_3_loc_2: 
+    position:
+      x: -0.51
+      y: -1.76
+      z: 1.26
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  shelf_3_loc_3: 
+    position:
+      x: -0.77
+      y: -1.76
+      z: 1.26
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  shelf_4_loc_1: 
+    position:
+      x: 0.77
+      y: -1.76
+      z: 1.51
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  shelf_4_loc_2: 
+    position:
+      x: 0.51
+      y: -1.76
+      z: 1.51
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  shelf_4_loc_3: 
+    position:
+      x: 0.25
+      y: -1.76
+      z: 1.51
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  shelf_5_loc_1: 
+    position:
+      x: -0.25
+      y: -1.76
+      z: 1.66
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  shelf_5_loc_2: 
+    position:
+      x: -0.51
+      y: -1.76
+      z: 1.66
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  shelf_5_loc_3: 
+    position:
+      x: -0.77
+      y: -1.76
+      z: 1.66
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
