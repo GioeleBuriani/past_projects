@@ -5,6 +5,15 @@ This repository serves as an archive for all my past projects. For a more concis
 
 ## Project list
 
++ [Automatic generation of a Sierpiński triangle by a simple geometric rule](./2023-04_Sierpiński_triangle_generator)
+      <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2023-04_Sierpiński_triangle_generator/Sierpiński%20-%20Animation.gif" width="150">
+      <br>
+    + **Duration:** April 2023  
+    + **Softwares:** VS Code
+    + **Coding:** Python
+<br>
+
 - [Soft gripper as end-effector of a cobot mounted on top of a quadruped robot](https://github.com/GioeleBuriani/2022-11_Soft_gripper_quadruped) (private)
       <br>
     + **Location:** German Aerospace Center (DLR)  
