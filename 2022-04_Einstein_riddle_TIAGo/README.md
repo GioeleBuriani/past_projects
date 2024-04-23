@@ -1,7 +1,7 @@
 # Einstein's riddle for a TIAGo robot in a post office
 
 <br>
-<img src="./Einstein%20-%20Riddle image.png" width="300">  
+<img src="./Einstein%20-%20Riddle%20image.png" width="300"><img src="./Einstein%20-%20TIAGo%20image.png" width="300">  
 <br>
 
 **Location**: Technische Universiteit Delft  
@@ -26,3 +26,4 @@ The outcome of this project highlights the potential for using advanced logic an
 - **Einstein - Code**: Folder containing all the files to run the project 
 - **Einstein - Final report.pdf**: Final report for the project
 - **Einstein - Riddle image.png**: Image showing a representation of Einstein's riddle
+- **Einstein - Riddle image.png**: Image showing the TIAGo robot in the post office environment
