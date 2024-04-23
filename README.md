@@ -70,7 +70,7 @@ This repository serves as an archive for all my past projects. For a more concis
 
 - [Einstein's riddle for a TIAGo robot in a post office](./2022-04_Einstein_riddle_TIAGo)
       <br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2022-04_Einstein_riddle_TIAGo/Einstein%20-%20Riddle%20image.png" width="150">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2022-04_Einstein_riddle_TIAGo/Einstein%20-%20Riddle%20image.png" width="150"><img src="./2022-04_Einstein_riddle_TIAGo/Einstein%20-%20TIAGo%20image.png" width="150">
       <br>
     + **Location:** Technische Universiteit Delft  
     + **Duration:** February 2022 to April 2022
