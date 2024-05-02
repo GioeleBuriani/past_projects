@@ -5,6 +5,16 @@ This repository serves as an archive for all my past projects. For a more concis
 
 ## Project list
 
+- [Learning interpretable reduced-order models for jumping quadrupeds](./2024-03_Model_learning_quadrupeds)
+      <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2024-03_Model_learning_quadrupeds/Thesis%20-%20Cover%20image.png" width="150">
+      <br>
+    + **Location:** Technische Universiteit Delft  
+    + **Duration:** December 2022 to March 2024
+    + **Softwares:** VS Code, Git, Overleaf, Microsoft PowerPoint  
+    + **Coding:** Python, C++, Latex  
+<br>
+
 + [Automatic generation of a Sierpiński triangle by a simple geometric rule](./2023-04_Sierpiński_triangle_generator)
       <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./2023-04_Sierpiński_triangle_generator/Sierpiński%20-%20Animation.gif" width="150">
