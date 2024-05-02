@@ -1,7 +1,7 @@
 # Learning interpretable reduced-order models for jumping quadrupeds
 
 <br>
-<img src="./Thesis%20-%20Cover%20page.png" width="300">
+<img src="./Thesis%20-%20Cover%20image.png" width="300">
 <br>
 
 **Location**: Technische Universiteit Delft  
